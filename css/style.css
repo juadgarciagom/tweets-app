@@ -1,0 +1,26 @@
+li {
+    width: 90%;
+    list-style: none;
+    padding-top: 10px;
+}
+
+#tweet {
+    width: 100%;
+}
+
+#btn_save {
+    margin: 10px auto;
+    width: 100%;
+}
+
+#messages p {
+    width: 100%;
+    text-align: center;
+}
+
+.btn_delete {
+    color: red;
+    float: right;
+    cursor: pointer;
+    font-size: 20px !important;
+}
